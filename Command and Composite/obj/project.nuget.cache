@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MlBYyGLB/s8ZU+Xmr1yELYxneihHMf6RFgYWN3FVl6jsknITgv0DCtMqRyNa3bXzS/64Nqg49QmEXvy5GDWKHw==",
+  "success": true,
+  "projectFilePath": "D:\\Lukas\\FHTW\\4. Semester\\SWP\\UE4 Command and Composite\\Command and Composite\\Command and Composite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lukas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

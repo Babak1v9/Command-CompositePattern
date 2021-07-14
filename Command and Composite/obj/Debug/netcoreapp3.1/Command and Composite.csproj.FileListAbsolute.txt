@@ -1,0 +1,13 @@
+D:\Lukas\FHTW\4. Semester\SWP\UE4 Command and Composite\Command and Composite\bin\Debug\netcoreapp3.1\Command and Composite.exe
+D:\Lukas\FHTW\4. Semester\SWP\UE4 Command and Composite\Command and Composite\bin\Debug\netcoreapp3.1\Command and Composite.deps.json
+D:\Lukas\FHTW\4. Semester\SWP\UE4 Command and Composite\Command and Composite\bin\Debug\netcoreapp3.1\Command and Composite.runtimeconfig.json
+D:\Lukas\FHTW\4. Semester\SWP\UE4 Command and Composite\Command and Composite\bin\Debug\netcoreapp3.1\Command and Composite.runtimeconfig.dev.json
+D:\Lukas\FHTW\4. Semester\SWP\UE4 Command and Composite\Command and Composite\bin\Debug\netcoreapp3.1\Command and Composite.dll
+D:\Lukas\FHTW\4. Semester\SWP\UE4 Command and Composite\Command and Composite\bin\Debug\netcoreapp3.1\Command and Composite.pdb
+D:\Lukas\FHTW\4. Semester\SWP\UE4 Command and Composite\Command and Composite\obj\Debug\netcoreapp3.1\Command and Composite.csprojAssemblyReference.cache
+D:\Lukas\FHTW\4. Semester\SWP\UE4 Command and Composite\Command and Composite\obj\Debug\netcoreapp3.1\Command and Composite.AssemblyInfoInputs.cache
+D:\Lukas\FHTW\4. Semester\SWP\UE4 Command and Composite\Command and Composite\obj\Debug\netcoreapp3.1\Command and Composite.AssemblyInfo.cs
+D:\Lukas\FHTW\4. Semester\SWP\UE4 Command and Composite\Command and Composite\obj\Debug\netcoreapp3.1\Command and Composite.csproj.CoreCompileInputs.cache
+D:\Lukas\FHTW\4. Semester\SWP\UE4 Command and Composite\Command and Composite\obj\Debug\netcoreapp3.1\Command and Composite.dll
+D:\Lukas\FHTW\4. Semester\SWP\UE4 Command and Composite\Command and Composite\obj\Debug\netcoreapp3.1\Command and Composite.pdb
+D:\Lukas\FHTW\4. Semester\SWP\UE4 Command and Composite\Command and Composite\obj\Debug\netcoreapp3.1\Command and Composite.genruntimeconfig.cache
